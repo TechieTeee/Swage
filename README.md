@@ -1,9 +1,8 @@
 ## Swage
-
-P2P Payment System for the Unbanked, Powered by Solana
+A P2P Payment System for the Unbanked, Powered by Solana
 
 ## Tech Stack
-** Solana
-** Phantom
-** Vercel
-** Javascript
+- Solana
+- Phantom
+- Vercel
+- Javascript
